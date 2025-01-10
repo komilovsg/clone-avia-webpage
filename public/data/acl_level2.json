@@ -1,0 +1,177 @@
+[
+    {
+        "title": "FlyDesk",
+        "path": "/",
+        "icon": "dashboard"
+    },
+    {
+        "title": "Заказы",
+        "icon": "ticket",
+        "items": [
+            {
+                "title": "Список заказов",
+                "path": "/orders"
+            },
+            {
+                "title": "Список заявок на возврат",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Поиск",
+        "icon": "search",
+        "items": [
+            {
+                "title": "Авиабилеты",
+                "path": "/search/avia",
+                "icon": "plane"
+            },
+            {
+                "title": "Гостиницы",
+                "path": "/search/hotels",
+                "icon": "hotel"
+            },
+            {
+                "title": "Трансфер",
+                "path": "/",
+                "icon": "bus"
+            }
+        ]
+    },
+    {
+        "title": "Торговые точки",
+        "icon": "boxes",
+        "items": [
+            {
+                "title": "Проекты",
+                "path": "/"
+            },
+            {
+                "title": "Партнеры",
+                "path": "/"
+            },
+            {
+                "title": "Клиенты",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Правила",
+        "icon": "priceLine",
+        "items": [
+            {
+                "title": "Ценовые правила",
+                "path": "/"
+            },
+            {
+                "title": "Схема ценовых правил",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Управления",
+        "icon": "control",
+        "items": [
+            {
+                "title": "Пользователи",
+                "path": "/",
+                "icon": "users"
+            },
+            {
+                "title": "Роли",
+                "path": "/",
+                "icon": "control"
+            },
+            {
+                "title": "Доступы",
+                "path": "/",
+                "icon": "lockOpen"
+            },
+            {
+                "title": "Справочник",
+                "icon": "layoutList",
+                "items": [
+                    {
+                        "title": "Страны",
+                        "path": "/"
+                    },
+                    {
+                        "title": "Города",
+                        "path": "/"
+                    },
+                    {
+                        "title": "Аэропорты",
+                        "path": "/"
+                    },
+                    {
+                        "title": "Самолёты",
+                        "path": "/"
+                    }
+                ]
+            },
+            {
+                "title": "Коннекторы",
+                "icon": "unplug",
+                "items": [
+                    {
+                        "title": "Список коннекторов",
+                        "path": "/"
+                    },
+                    {
+                        "title": "Курс валют",
+                        "path": "/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Отчеты",
+        "icon": "report",
+        "items": [
+            {
+                "title": "Отчеты 1",
+                "path": "/"
+            },
+            {
+                "title": "Отчеты 2",
+                "path": "/"
+            },
+            {
+                "title": "Отчеты 3",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Ещё",
+        "icon": "menu",
+        "items": [
+            {
+                "title": "Статистика",
+                "icon": "pieChart",
+                "items": [
+                    {
+                        "title": "Статистика 1",
+                        "path": "/"
+                    },
+                    {
+                        "title": "Статистика 2",
+                        "path": "/"
+                    },
+                    {
+                        "title": "Статистика 3",
+                        "path": "/"
+                    },
+                    {
+                        "title": "Статистика 4",
+                        "path": "/"
+                    }
+                ]
+            }
+        ]
+    }
+]

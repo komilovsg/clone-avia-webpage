@@ -1,0 +1,321 @@
+[
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 12:00",
+        "partner_name": "FlyUZ",
+        "booking_number": "TJK-55261711449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "2489.72",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "URC",
+                "from_city": "Урумчи",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 1,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-03-01 19:00",
+        "partner_name": "Fly.tj",
+        "booking_number": "TJK-49171155264139",
+        "provider_info": "X7B6WS",
+        "order_status": "inProgress",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "TAS",
+                "from_city": "Ташкент",
+                "to": "JED",
+                "to_city": "Джеддах",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-03-04 20:45",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-13917115526449",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "LBD",
+                "from_city": "Дубай",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 0,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "MOW",
+                "from_city": "Москва",
+                "to": "TJU",
+                "to_city": "Куляб",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 1,
+            "chd": 0
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "DYU",
+                "from_city": "Душанбе",
+                "to": "LBD",
+                "to_city": "Худжанд",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 0
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "DYU",
+                "from_city": "Душанбе",
+                "to": "ALA",
+                "to_city": "Алматы",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 4,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "returned",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "DYU",
+                "from_city": "Душанбе",
+                "to": "IST",
+                "to_city": "Стамбул",
+                "date": "2024-03-28"
+            },
+            {
+                "from": "IST",
+                "from_city": "Стамбул",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "LBD",
+                "from_city": "Дубай",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-03-04 20:45",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-13917115526449",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "LBD",
+                "from_city": "Дубай",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "canceled",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "LBD",
+                "from_city": "Дубай",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "LBD",
+                "from_city": "Дубай",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "LBD",
+                "from_city": "Дубай",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    },
+    {
+        "order_id": "12345",
+        "timestamp": "2023-04-01 14:00",
+        "partner_name": "Fly.tj partner",
+        "booking_number": "TJK-17115526449139",
+        "provider_info": "X7B6WS",
+        "order_status": "success",
+        "total_price": "372.9",
+        "currency": "TJS",
+        "routes": [
+            {
+                "from": "LBD",
+                "from_city": "Дубай",
+                "to": "DYU",
+                "to_city": "Душанбе",
+                "date": "2024-03-28"
+            }
+        ],
+        "passengers_count": {
+            "adt": 2,
+            "chd": 1
+        },
+        "airline_code": "SZ"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Авиабилеты",
+        "path": "/",
+        "icon": "plane"
+    },
+    {
+        "title": "Гостиницы",
+        "path": "/search/hotels",
+        "icon": "hotel"
+    },
+    {
+        "title": "Трансфер",
+        "path": "/",
+        "icon": "bus"
+    }
+]
